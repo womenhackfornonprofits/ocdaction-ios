@@ -20,7 +20,7 @@ A collaborative, youth­led project aiming to make use of digital technology to 
 - Slack for group chats/standups etc
 
 ## Team
-- [Busra](https://github.com/busradeniz) 
+- [Busra](https://github.com/busradeniz) - iOS Developer
 
 # Setup
 ## Tools
